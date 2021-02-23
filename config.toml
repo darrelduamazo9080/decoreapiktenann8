@@ -1,0 +1,4 @@
+baseURL = "https://homeydecor-debnaaso2.vercel.app"
+languageCode = "en-us"
+title = "Room Decor Minimalism USA"
+theme = "hugo-theme-minos"
